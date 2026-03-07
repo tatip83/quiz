@@ -1,2 +1,2 @@
 # quiz
-Quit Description
+Quiz Description
